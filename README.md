@@ -1,2 +1,0 @@
-# Stardust
-Stardust-lighting website
